@@ -9,7 +9,7 @@ public class Main {
         double sicaklik = 0;
         Scanner inp = new Scanner(System.in);
 
-        System.out.print("Sicakliga gore tavsiye uygulamasina hos geldiniz.");
+        System.out.println("Sicakliga gore tavsiye uygulamasina hos geldiniz.");
         System.out.print("Hava kac derece: ");
         sicaklik = inp.nextDouble();
 
