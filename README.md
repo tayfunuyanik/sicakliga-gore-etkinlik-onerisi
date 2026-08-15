@@ -1,4 +1,4 @@
-# Sicakliga Gore Etkinlik Onerisi
+# Sıcaklığa Göre Etkinlik Önerisi
 
 Java ile kullanıcıdan alınan hava sıcaklığına göre etkinlik önerileri sunan basit konsol uygulaması.
 
